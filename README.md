@@ -3,7 +3,7 @@
 
 ## Sobre Mim 📚
 
-Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina. Minha missão é criar soluções inovadoras para os problemas do mundo real.
+Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e Cibersegurança. Minha missão é criar soluções inovadoras para os problemas do mundo real e compartilhar conhecimentos sobre Cibersergurança.
 
 ## Contato 📫
 
