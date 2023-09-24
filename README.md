@@ -15,8 +15,7 @@ Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e Cib
 Tenho experiência em várias áreas, incluindo:
 
 - 💻 Linguagens de Programação: Python, JavaScript, Java
-- 📊 Ciência de Dados e Aprendizado de Máquina
-- 🧰 Ferramentas: Git, Docker, VSCode
+- 🧰 Ferramentas: Git, Docker, VSCode,Kali Linux
 
 ## Educação 📖
 
