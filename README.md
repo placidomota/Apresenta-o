@@ -10,13 +10,6 @@ Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e Cib
 - 📧 Email: placidobb.ac@gmail.com
 - 💼 LinkedIn: [Plácido Mota](https://ca.linkedin.com/in/placidomota)
 
-## Projetos Destacados 🚀
-
-Aqui estão alguns dos projetos em que trabalhei e dos quais tenho muito orgulho:
-
-- 🌐 [Projeto 1](link-para-o-projeto-1): Breve descrição do projeto.
-- 📦 [Projeto 2](link-para-o-projeto-2): Outra descrição breve.
-
 ## Habilidades 🛠️
 
 Tenho experiência em várias áreas, incluindo:
