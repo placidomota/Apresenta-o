@@ -24,7 +24,7 @@ Tenho experiência em várias áreas, incluindo:
 
 ## Experiência Profissional 💼
 
-- 🏢 Banco do Brasil , desenvolvimento Fustack  Java, Java Script, Banco de Dados Mysql, Postgress 
+- 🏢 Banco do Brasil , desenvolvimento Fullstack  Java, Java Script, Banco de Dados Mysql, Postgress 
   - Manutenção e desenvolvimento de uma ferramenta utilizada pela equipe.
  
 ## Interesses Pessoais 🌍
